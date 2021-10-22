@@ -7,8 +7,9 @@ Things Required
   1. 2 Wheel Robot Chasis with Motors and Wheels
   2. Arduino Uno/Mega Board
   3. L298N Motor Controller
+  4. 3 - Ultra Sonic Sensors
   
-Arduino Pin Assignment
+Arduino Pin Assignment<br />
 
   LeftMotorEnable 6
   <br />RightMotorEnable 5
